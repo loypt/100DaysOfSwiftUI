@@ -1,14 +1,14 @@
 //
-//  WeSplitApp.swift
-//  WeSplit
+//  GuessTheFlagApp.swift
+//  GuessTheFlag
 //
-//  Created by Loyio Hex on 2/20/22.
+//  Created by Loyio Hex on 2/23/22.
 //
 
 import SwiftUI
 
 @main
-struct WeSplitApp: App {
+struct GuessTheFlagApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
